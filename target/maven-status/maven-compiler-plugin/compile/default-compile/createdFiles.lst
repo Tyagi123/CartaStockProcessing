@@ -1,0 +1,10 @@
+com/carta/batch/service/FileProcessingServiceImpl.class
+com/carta/batch/entity/TradeCustomer.class
+com/carta/batch/entity/TradeCustomer$TradeCustomerBuilder.class
+com/carta/batch/service/FileProcessingService.class
+com/carta/batch/BatchProcessingApplication.class
+com/carta/batch/common/Constants.class
+com/carta/batch/entity/TradeCustomerRequest.class
+com/carta/batch/controller/JobController.class
+com/carta/batch/LocalRun.class
+com/carta/batch/common/DateUtils.class
